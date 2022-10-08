@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with <b> Open Source Development </b>
-- 💬 Ask me about <b> Java ,Firebase Database,Android App Development</b>
+- 💬 Ask me about <b> Java ,Firebase Database,Mongo DB,MySQL,Spring boot,React.js,Kafka,Android App Development</b>
 - 📫 How to reach me: <b> LinkedIn, Twitter, Facebook </b>
 - 😄 Pronouns: He/His
 
