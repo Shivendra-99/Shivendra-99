@@ -75,26 +75,33 @@ public class Shivendra {
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Shivendra-99/E_votingApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivendra-99&repo=E_votingApp&theme=tokyonight&hide_border=true" alt="E-Voting App"/>
-</a>
-<a href="https://github.com/Shivendra-99/react-learning-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivendra-99&repo=react-learning-platform&theme=tokyonight&hide_border=true" alt="React Learning Platform"/>
-</a>
-<a href="https://github.com/Shivendra-99/email-service-lambda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivendra-99&repo=email-service-lambda&theme=tokyonight&hide_border=true" alt="Email Service Lambda"/>
-</a>
-<a href="https://github.com/Shivendra-99/Audio-To-converstion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivendra-99&repo=Audio-To-converstion&theme=tokyonight&hide_border=true" alt="Audio To Conversation"/>
-</a>
-
-</div>
+| Project | What it does | Built with |
+|:--|:--|:--|
+| **[🗳️ E-Voting App](https://github.com/Shivendra-99/E_votingApp)** | Vote from anywhere in India and watch live results render as a pie chart | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **[⚛️ React Learning Platform](https://github.com/Shivendra-99/react-learning-platform)** | A learning platform built with a modern React + TypeScript stack | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **[📧 Email Service (Lambda)](https://github.com/Shivendra-99/email-service-lambda)** | Serverless email delivery running on AWS Lambda | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **[🎙️ Audio To Conversation](https://github.com/Shivendra-99/Audio-To-converstion)** | Turns audio recordings into transcribed, readable conversation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[📄 Text to PDF Converter](https://github.com/Shivendra-99/textToPdfConverter)** | Converts text documents into cleanly formatted PDFs | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 <br/>
 
 ## 📊 &nbsp;GitHub Stats
+
+<!--
+  SELF-HOSTING NOTE
+  These cards use the free shared public instances, which frequently return
+  HTTP 503 or "Failed to retrieve contributions" because thousands of profiles
+  share one GitHub API token.
+
+  Permanent fix - deploy your own copies (~10 min, free):
+    1. Fork  https://github.com/anuraghazra/github-readme-stats
+       and   https://github.com/DenverCoder1/github-readme-streak-stats
+    2. Create a GitHub personal access token (classic, no scopes needed)
+    3. On vercel.com import each fork, set env var PAT_1 = <your token>, deploy
+    4. Find/replace below:
+         github-readme-stats.vercel.app  ->  <your-stats-project>.vercel.app
+         streak-stats.demolab.com        ->  <your-streak-project>.vercel.app
+-->
 
 <div align="center">
 
