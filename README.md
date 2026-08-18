@@ -29,28 +29,52 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-```java
-public class Shivendra {
+<table>
+<tr>
+<td valign="top" width="52%">
 
-    String location  = "Lucknow, India";
-    String role      = "Backend & Full-Stack Developer";
-    String[] focus   = { "REST APIs", "Microservices", "Event-Driven Systems" };
-    String[] daily   = { "Java", "Spring Boot", "React", "Node.js" };
-    String[] learning = { "TypeScript", "System Design", "AWS" };
-
-    public String askMeAbout() {
-        return "Spring Boot, Kafka, MongoDB, MySQL, Firebase";
-    }
-}
-```
-
-- 🔭 &nbsp;I mostly build **backend systems** — REST APIs, microservices and event-driven services with Kafka
-- 🌱 &nbsp;Currently going deeper into **TypeScript, system design and AWS**
-- 🤝 &nbsp;Open to collaborating on **open-source** projects
-- 📫 &nbsp;Reach me at **shivendrasonkar001@gmail.com**
-- 😄 &nbsp;Pronouns: **He/His**
+Backend-leaning full-stack developer based in **Lucknow, India**.
+Most of my time goes into designing REST APIs, splitting work into
+services, and wiring them together with **Kafka**.
 
 <br/>
+
+🔭 &nbsp;Building **microservices** with Java &amp; Spring Boot
+
+🌱 &nbsp;Learning **TypeScript**, **system design** and **AWS**
+
+🤝 &nbsp;Open to collaborating on **open-source**
+
+💬 &nbsp;Ask me about **Spring Boot · Kafka · MongoDB · MySQL**
+
+📫 &nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/shivendra-kumar-sonkar-4349ab17b)
+
+😄 &nbsp;Pronouns: **He/His**
+
+</td>
+<td valign="top" width="48%">
+
+**What I work with day to day**
+
+<br/>
+
+🏗️ &nbsp;&nbsp;Microservices &amp; event-driven design
+
+☁️ &nbsp;&nbsp;AWS — Lambda, EC2, deployments
+
+⚛️ &nbsp;&nbsp;React + TypeScript on the frontend
+
+🗄️ &nbsp;&nbsp;MongoDB · MySQL · Firebase
+
+📱 &nbsp;&nbsp;Android app development
+
+<br/>
+
+<img src="https://img.shields.io/badge/60%2B-public%20repos-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -88,30 +112,20 @@ public class Shivendra {
 ## 📊 &nbsp;GitHub Stats
 
 <!--
-  These cards come from github-profile-summary-cards, which was verified
-  responding correctly. The previous cards used github-readme-stats.vercel.app
-  and streak-stats.demolab.com, whose shared public instances were returning
-  HTTP 503 / "Failed to retrieve contributions" because thousands of profiles
-  share one GitHub API token.
-
-  If these ever break too, the bulletproof option is the lowlighter/metrics
-  GitHub Action, which renders the SVG inside this repo like the snake does,
-  so there is no external service to fail at page-load time.
+  metrics.svg and metrics.languages.svg are generated inside this repo by
+  .github/workflows/metrics.yml (lowlighter/metrics) and committed here.
+  Nothing external is contacted when someone loads this page, so these cards
+  cannot break the way the old github-readme-stats / streak-stats / trophy
+  cards did when their shared public instances went down.
 -->
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivendra-99&theme=tokyonight" alt="profile summary" />
+<img width="88%" src="./metrics.svg" alt="metrics overview" />
 
 <br/><br/>
 
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivendra-99&theme=tokyonight" alt="repos per language" />
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivendra-99&theme=tokyonight" alt="most committed language" />
-
-<br/><br/>
-
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivendra-99&theme=tokyonight" alt="stats" />
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivendra-99&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+<img width="52%" src="./metrics.languages.svg" alt="language breakdown" />
 
 <br/><br/>
 
