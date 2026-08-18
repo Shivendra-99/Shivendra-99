@@ -88,42 +88,35 @@ public class Shivendra {
 ## 📊 &nbsp;GitHub Stats
 
 <!--
-  SELF-HOSTING NOTE
-  These cards use the free shared public instances, which frequently return
-  HTTP 503 or "Failed to retrieve contributions" because thousands of profiles
+  These cards come from github-profile-summary-cards, which was verified
+  responding correctly. The previous cards used github-readme-stats.vercel.app
+  and streak-stats.demolab.com, whose shared public instances were returning
+  HTTP 503 / "Failed to retrieve contributions" because thousands of profiles
   share one GitHub API token.
 
-  Permanent fix - deploy your own copies (~10 min, free):
-    1. Fork  https://github.com/anuraghazra/github-readme-stats
-       and   https://github.com/DenverCoder1/github-readme-streak-stats
-    2. Create a GitHub personal access token (classic, no scopes needed)
-    3. On vercel.com import each fork, set env var PAT_1 = <your token>, deploy
-    4. Find/replace below:
-         github-readme-stats.vercel.app  ->  <your-stats-project>.vercel.app
-         streak-stats.demolab.com        ->  <your-streak-project>.vercel.app
+  If these ever break too, the bulletproof option is the lowlighter/metrics
+  GitHub Action, which renders the SVG inside this repo like the snake does,
+  so there is no external service to fail at page-load time.
 -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivendra-99&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivendra-99&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivendra-99&theme=tokyonight" alt="profile summary" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Shivendra-99&theme=tokyonight&hide_border=true" alt="streak" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivendra-99&theme=tokyonight" alt="repos per language" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivendra-99&theme=tokyonight" alt="most committed language" />
+
+<br/><br/>
+
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivendra-99&theme=tokyonight" alt="stats" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivendra-99&theme=tokyonight&utcOffset=5.5" alt="productive time" />
 
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivendra-99&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
-</div>
-
-<br/>
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivendra-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </div>
 
 <br/>
