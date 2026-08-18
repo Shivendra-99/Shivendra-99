@@ -29,52 +29,20 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-<table>
-<tr>
-<td valign="top" width="52%">
-
-Backend-leaning full-stack developer based in **Lucknow, India**.
-Most of my time goes into designing REST APIs, splitting work into
-services, and wiring them together with **Kafka**.
+> Backend-leaning full-stack developer from **Lucknow, India**.<br/>
+> I design REST APIs, split work into services, and wire them together with **Kafka**.
 
 <br/>
 
-🔭 &nbsp;Building **microservices** with Java &amp; Spring Boot
-
-🌱 &nbsp;Learning **TypeScript**, **system design** and **AWS**
-
-🤝 &nbsp;Open to collaborating on **open-source**
-
-💬 &nbsp;Ask me about **Spring Boot · Kafka · MongoDB · MySQL**
-
-📫 &nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/shivendra-kumar-sonkar-4349ab17b)
-
-😄 &nbsp;Pronouns: **He/His**
-
-</td>
-<td valign="top" width="48%">
-
-**What I work with day to day**
+🔭 &nbsp; Currently building **microservices** with Java &amp; Spring Boot<br/><br/>
+⚛️ &nbsp; Working with **React + TypeScript** on the frontend<br/><br/>
+🌱 &nbsp; Going deeper into **system design** and **AWS**<br/><br/>
+🗄️ &nbsp; Comfortable across **MongoDB · MySQL · Firebase**<br/><br/>
+🤝 &nbsp; Open to collaborating on **open-source**<br/><br/>
+💬 &nbsp; Ask me about **Spring Boot · Kafka · REST APIs**<br/><br/>
+📫 &nbsp; Reach me on **[LinkedIn](https://www.linkedin.com/in/shivendra-kumar-sonkar-4349ab17b)**
 
 <br/>
-
-🏗️ &nbsp;&nbsp;Microservices &amp; event-driven design
-
-☁️ &nbsp;&nbsp;AWS — Lambda, EC2, deployments
-
-⚛️ &nbsp;&nbsp;React + TypeScript on the frontend
-
-🗄️ &nbsp;&nbsp;MongoDB · MySQL · Firebase
-
-📱 &nbsp;&nbsp;Android app development
-
-<br/>
-
-<img src="https://img.shields.io/badge/60%2B-public%20repos-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -101,8 +69,7 @@ services, and wiring them together with **Kafka**.
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| **[🗳️ E-Voting App](https://github.com/Shivendra-99/E_votingApp)** | Vote from anywhere in India and watch live results render as a pie chart | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **[⚛️ React Learning Platform](https://github.com/Shivendra-99/react-learning-platform)** | A learning platform built with a modern React + TypeScript stack | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **[⚛️ React Learning Platform](https://github.com/Shivendra-99/react-learning-platform)** | A learning platform built on a modern React + TypeScript stack | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | **[📧 Email Service (Lambda)](https://github.com/Shivendra-99/email-service-lambda)** | Serverless email delivery running on AWS Lambda | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
 | **[🎙️ Audio To Conversation](https://github.com/Shivendra-99/Audio-To-converstion)** | Turns audio recordings into transcribed, readable conversation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[📄 Text to PDF Converter](https://github.com/Shivendra-99/textToPdfConverter)** | Converts text documents into cleanly formatted PDFs | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
